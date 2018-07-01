@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=passaro
+comment1.params=
+comment1.target=passaro()
+comment2.params=
+comment2.target=boolean\ toogleDormir()
+comment3.params=gato
+comment3.target=boolean\ correGato(cao)
+comment4.params=
+comment4.target=boolean\ voa()
+numComments=5

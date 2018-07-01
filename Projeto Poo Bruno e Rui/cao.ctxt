@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=cao
+comment1.params=nome
+comment1.target=cao(java.lang.String)
+comment2.params=
+comment2.target=boolean\ toogleDormir()
+comment3.params=
+comment3.target=java.lang.String\ nome()
+comment4.params=rato
+comment4.target=boolean\ atacaRato(rato)
+comment5.params=gato
+comment5.target=void\ atacaGato(gato)
+numComments=6
